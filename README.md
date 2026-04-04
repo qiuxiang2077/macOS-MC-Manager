@@ -1,0 +1,2 @@
+# OpenClaw_MC_Manager
+这是一个基于OpenClaw的Minecraft中小型服务器管理系统，目前已有功能包括了一键启停服务器、白名单管理、CLI控制面板、发布RCON命令等
