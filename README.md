@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-一个基于OpenClaw的Minecraft中小型服务器管理系统，提供便捷的服务器管理功能。
+一个专为macOS设计的Minecraft中小型服务器管理系统，提供便捷的服务器管理功能。
 
 ## ✨ 功能特性
 
