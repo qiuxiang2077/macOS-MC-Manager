@@ -17,11 +17,12 @@
 
 | 文件名 | 描述 |
 |--------|------|
-| `minecraft_manager.sh` | 功能完整的管理界面脚本 |
-| `minecraft_console.sh` | 服务器启动器脚本 |
-| `start2.sh` | 备用启动脚本（带白名单监控） |
-| `打开MC服务器控制台.command` | macOS双击运行脚本 |
-| `Minecraft服务器管理说明.txt` | 详细使用说明文档 |
+| `README.md` | 项目说明文档（您正在阅读的文件） |
+| `minecraft_manager.sh` | 功能完整的管理界面脚本，提供交互式菜单控制服务器 |
+| `minecraft_console.sh` | 服务器启动器脚本，用于启动Minecraft服务器 |
+| `start2.sh` | 备用启动脚本，包含白名单监控功能 |
+| `打开MC服务器控制台.command` | macOS双击运行脚本，方便用户快速启动管理界面 |
+| `Minecraft服务器管理说明.txt` | 详细的使用说明和配置文档 |
 
 ## 🛠️ 系统要求
 
