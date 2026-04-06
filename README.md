@@ -122,4 +122,4 @@ white-list=true
 
 ---
 
-**享受您的Minecraft服务器管理体验！ 🎮**
+** 祝您拥有一个愉快的Minecraft服务器管理体验！ 🎮**
