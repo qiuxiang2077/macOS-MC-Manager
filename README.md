@@ -19,6 +19,7 @@
 |--------|------|
 | `README.md` | 项目说明文档（您正在阅读的文件） |
 | `setup.sh` | 初始配置脚本，交互式设置服务器参数 |
+| `uninstall.sh` | 卸载脚本，清理配置文件和可选的服务器文件 |
 | `config.sh` | 配置文件，由setup.sh生成（运行后自动创建） |
 | `minecraft_manager.sh` | 功能完整的管理界面脚本，提供交互式菜单控制服务器 |
 | `minecraft_console.sh` | 服务器启动器脚本，用于启动Minecraft服务器 |
@@ -80,6 +81,12 @@
 ```bash
 ./minecraft_console.sh
 ```
+
+### 方法四：卸载和清理
+```bash
+./uninstall.sh
+```
+选择清理级别：仅配置文件、配置文件+服务器目录，或完全清理所有文件。
 
 ## ⚙️ 配置
 
